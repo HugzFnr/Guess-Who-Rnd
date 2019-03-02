@@ -6,3 +6,5 @@ generated so every game is brand new ! Ask questions (in french only, sorry) the
 ### Context
 
 I made this game for my computer science option project in high school (year 2015).
+
+We didn't use any versioning tool at that time, but luckily I found the code in some old folders.
