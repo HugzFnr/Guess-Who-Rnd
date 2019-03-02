@@ -11,6 +11,6 @@ We didn't use any versioning tool at that time, but luckily I found the code in 
 
 ### Demonstration
 
-Here is 1min long video demonstration of the game that I commented in french : https://youtu.be/9PlXIUx84gg
+Here is a 1 minute long video demonstration of the game that I commented in french : https://youtu.be/9PlXIUx84gg
 
 One day I shall subtitle it in english, promised.
